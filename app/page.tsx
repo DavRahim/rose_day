@@ -8,9 +8,12 @@ type Props = {};
 const Home = (props: Props) => {
 	return (
 		<>
-		<Heading title="Home | Rose Day" description="It's is a flower website" keyword="Flower rose day"/>
-		<Header/>
-		<Hero/>
+			<Heading title="Home | Rose Day" description="It's is a flower website" keyword="Flower rose day" />
+			<div className="h-screen">
+				<Header />
+				<Hero />
+			</div>
+
 		</>
 	);
 };

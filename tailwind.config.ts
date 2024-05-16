@@ -12,12 +12,20 @@ const config: Config = {
 				leagueSpartan: ["var(--font-League_Spartan)"],
 				roboto: ["var(--font-roboto)"],
 			},
+			backgroundColor: {
+				primary: "#004F44",
+				secondary: "#EFF7F5"
+				
+			},
+			textColor: {
+				primary: "#004F44",
+				secondary: "#EFF7F5"
+			},
 			screens: {
-				"1500px": "1500px",
+				"1440px": "1440px",
 				"1300px": "1300px",
 				"1200px": "1200px",
-				"1100px": "1100px",
-				"1080px": "1080px",
+				"1150px": "1150px",
 				"991px": "991px",
 				"800px": "800px",
 				"400px": "400px",
