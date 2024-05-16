@@ -193,7 +193,8 @@ You can optionally add a FAQ section about the project.
 Add important resources here
 
 ##  :camera: Gallery
-Pictures of your project.
+Pictures of you![flower_shop](https://github.com/DavRahim/rose_day/assets/117851075/5f2da790-056b-4f0a-9e5f-a3146a9ae74d)
+r project.
 
 ## :star2: Credit/Acknowledgment
 Credit the authors here.
