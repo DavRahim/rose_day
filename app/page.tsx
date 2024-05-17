@@ -7,6 +7,7 @@ import Search from "./components/Search";
 import Colorful from "./components/Colorful";
 import PlantStands from "./components/PlantStands";
 import Shipping from "./components/Shipping";
+import Location from "./components/Location";
 
 type Props = {};
 
@@ -22,6 +23,7 @@ const Home = (props: Props) => {
 				<Colorful/>
 				<PlantStands/>
 				<Shipping/>
+				<Location/>
 			</div>
 
 		</>
