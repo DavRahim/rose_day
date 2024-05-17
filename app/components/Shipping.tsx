@@ -17,13 +17,17 @@ const Shipping = (props: Props) => {
                 width={1150}
                 height={346}
                 />
-                <div className="absolute top-0 left-0 w-full h-full">
-                    <h1>
-                          Free Shipping Services
-                    </h1>
-                    <p>*only for the same region</p>
-                      <p><span><IoCallOutline /></span> <span>+62 1189-2719-00</span></p>
-                      <p><span><MdOutlineMailOutline /></span> <span>order@platify.co</span></p>
+                  <div className="absolute top-0 left-0 w-full h-full">
+                      <div className=" my-5 mx-5">
+                          <h1>
+                              Free Shipping Services
+                          </h1>
+                          <p>*only for the same region</p>
+                          <p><span><IoCallOutline /></span> <span>+62 1189-2719-00</span></p>
+                          <p><span><MdOutlineMailOutline /></span> <span>order@platify.co</span></p>
+
+                    </div>
+                   
                 </div>
             </div>
 
