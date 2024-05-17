@@ -30,7 +30,7 @@ const FeaturedProducts = (props: Props) => {
             <div className="w-full mx-auto pb-9">
                 <div className="800px:w-[1150px] w-full mx-auto relative">
                     {/* cart */}
-                    <div className="grid grid-flow-col auto-cols-max gap-2 overflow-y-auto scrollbar-hide scroll-smooth" ref={ref}>
+                    <div className="grid grid-flow-col auto-cols-max gap-[28px] overflow-y-auto scrollbar-hide scroll-smooth" ref={ref}>
                         <div className="!w-[280px] h-auto">
                             <Image
                                 alt="cart"
