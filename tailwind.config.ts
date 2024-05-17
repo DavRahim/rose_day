@@ -41,6 +41,8 @@ const config: Config = {
 		// 	"2xs": { max: "340px" },
 		// },
 	},
-	plugins: [],
+	plugins: [
+		require('tailwind-scrollbar-hide')
+	],
 }
 export default config

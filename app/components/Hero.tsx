@@ -11,7 +11,7 @@ import hero4 from "../../public/pattern.png";
 
 const Hero = (props: Props) => {
     return (
-        <div className="bg-primary">
+        <div className="w-full mx-auto bg-primary">
             <div className="800px:w-[1150px] w-full 800px:flex-row flex-col pb-20 mx-auto flex justify-between items-center">
                 <div className="flex gap-1 800px:order-last">
                     <div>
