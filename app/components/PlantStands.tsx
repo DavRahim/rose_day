@@ -40,7 +40,7 @@ const PlantStands = (props: Props) => {
             </div>
              
           </div>
-          <p className="text-[16px] text-primary flex gap-2 items-center"><span>more</span> <span><FaArrowRightLong size={16} /></span></p>
+          {/* <p className="text-[16px] text-primary flex gap-2 items-center"><span>more</span> <span><FaArrowRightLong size={16} /></span></p> */}
     </div>
   );
 };
