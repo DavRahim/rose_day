@@ -17,7 +17,7 @@ const Shipping = (props: Props) => {
                 width={1150}
                 height={346}
                 />
-                <div>
+                <div className="absolute w-full h-full">
                     <h1>
                           Free Shipping Services
                     </h1>
